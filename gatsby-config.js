@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `okdohyuk blog`,
     siteTitleAlt: `okdohyuk blog`,
     siteHeadline: `okdohyuk blog`,
-    siteUrl: `okdohyuk.github.io`,
+    siteUrl: `https://okdohyuk.github.io`,
     siteDescription: `This is okdohyuk's blog.`,
     siteLanguage: `en`,
     siteImage: `/banner.png`,
