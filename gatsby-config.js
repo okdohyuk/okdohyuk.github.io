@@ -8,13 +8,13 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `okdohyuk blog`,
-    siteTitleAlt: `okdohyuk blog - Gatsby Theme`,
-    siteHeadline: `okdohyuk blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
+    siteTitleAlt: `okdohyuk blog`,
+    siteHeadline: `okdohyuk blog`,
+    siteUrl: `okdohyuk.github.io`,
+    siteDescription: `This is okdohyuk's blog.`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    siteImage: `/banner.png`,
+    author: `@okdohyuk`,
   },
   plugins: [
     {
@@ -127,7 +127,7 @@ module.exports = {
               }
             `,
             output: `rss.xml`,
-            title: `okdohyuk blog - @lekoarts/gatsby-theme-minimal-blog`,
+            title: `okdohyuk blog`,
           },
         ],
       },
